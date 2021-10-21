@@ -1,6 +1,6 @@
 const nameGirl = 'ĐÀO LÊ NGỌC HƯNG';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng Sinh Nhật Tôi';
+const eventName = 'Chúc Mừng Sinh Nhật';
 const titleCard = '❤❤❤❤';
 const contentCard = 'Cố gắng lên nhé bản thân tôi ơi, thêm tuổi mới phải tự mình mạnh mẽ hơn nữa để là chỗ dựa vững chắc gia đình, người thân nữa nhé!';
 
